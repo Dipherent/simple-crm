@@ -366,7 +366,8 @@
           
           <div class="w-full lg:w-full px-4 " data-aos="fade-in">
             <h5 class="text-2xl font-semibold mt-0 mb-2 text-white bg-red-500 rounded-lg p-6 w-full">
-              Start today!
+              <a href="/home">Start today!
+              </a>
               <i class="ml-8 fas fa-arrow-circle-right"></i>
             </h5>
             
